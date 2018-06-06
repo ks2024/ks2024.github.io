@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Jackpon
+title: whj
 subtitle:
 description: "a young idler, an old beggar !"
-author: Jackpon
+author: whj
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -215,8 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/Jackpon
-  ZhiHu: https://www.zhihu.com/people/Jackpon/activities
+  GitHub: https://github.com/ppttv
   404公益@宝贝回家: 404.html
   LeetCode: site/
   
