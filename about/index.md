@@ -10,7 +10,7 @@ Welcome to Ks2024 GitBlog ！
 
 
  - 邮箱：1101471190.com
- - GitHub：[ks2014][1]
+ - GitHub：[ks2024][1]
 
 
   [1]: https://github.com/ks2024
