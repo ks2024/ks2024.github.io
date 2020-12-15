@@ -13,4 +13,4 @@ Welcome to Ks2024 GitBlog ！
  - GitHub：[ks2014][1]
 
 
-  [1]: https://github.com/ks2014
+  [1]: https://github.com/ks2024
